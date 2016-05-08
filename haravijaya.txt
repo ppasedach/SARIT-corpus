@@ -5264,7 +5264,7 @@ vastuṣvapoḍhatamasāmapi no matīnām|
 
 %p.137
 
-asyāmalā. hkila dhiyo vicaranti yena|
+asyāmalāḥ kila dhiyo vicaranti yena|
 tāsāmuparyupari citraviśeṣaṇiṣṭhāḥ||72||
 
 prajñātirekavaśato viśadāvabhāsa-
@@ -5466,7 +5466,7 @@ cakṣupmato 'pi caraṇeṣvavadhānavandhyā-
 
 nvidhyanti kaṇṭakaśikhā niśitā avaśyam||19||
 
-kālādisādhanamaveks.itamarthasiddhi-
+kālādisādhanamavekṣitamarthasiddhi-
 
 mabhyarṇatāṃ nayati niṣpratighaṃ jigīṣoḥ|
 
@@ -5645,7 +5645,7 @@ kasyāspadaṃ vimalaśāstradṛśo na kuryāt||40||
 
 dṛṣṭāsya yadyapi tamaḥpaṭalāsitaśrīḥ|
 
-avyāhatā tava gaṇādhipakhaḍgayaṣ.ṭi.-
+avyāhatā tava gaṇādhipakhaḍgayaṣṭi-
 
 reṣā raṇeṣu bhuvanakṣayakālarātriḥ||41||
 
@@ -5926,7 +5926,7 @@ cchāyeva vaktrakuhādabhiniṣpatantī||21||
 
 bhrūbhaṅgameṣa vidadhāti yathā yathā ca
 
-saṃrambhapāṭalavilocanatā. mvidhatte|
+saṃrambhapāṭalavilocanatāṃ vidhatte|
 
 %p.152
 
@@ -6404,7 +6404,7 @@ vitenivāṃso 'pyavilaṅghyarūpatāmanekasaṃkhyā dadhato 'napāyatām|
 
 hareṇa kalpā iva yena kālatāmupeyuṣānāyiṣata dviṣaḥ kṣayam||3||
 
-%p.12
+%p.163
 
 dadhatyabhīkṣṇa dhavalāni bhūyasīṃ digantaravyāptīrargalāṃ
 śriyam|
@@ -6436,7 +6436,9 @@ arātilokaṃ mathitaṃ sahastradhā cakāra daṇḍāhatamapyagorasam||8||
 vipakṣamāviṣkṛtasaṃdhivigrahaṃ tathāpyanaṣṭāpadameva yo
 vyadhāt||9||
 
-%p.vikāsayankīrtikumudvatīṃ kṣaṇādvilocanānandakaraḥ kalāspadam|
+%p.164
+
+vikāsayankīrtikumudvatīṃ kṣaṇādvilocanānandakaraḥ kalāspadam|
 
 sarūpabhāve 'pyaparājayakṣmatāṃ dadhanmṛgāṅkaṃ viśinaṣṭi yo
 guṇaiḥ||10||
@@ -9211,7 +9213,7 @@ bhaṅgaḥ||52||
 mūlasthapriyanakhamaṇḍanasya bāhorutkṣepātpratiyuvatiṃ
 vidūnayantyāḥ|
 
-āditsordrumaviṭapāgravartipuṣpaṃ pu.patve 'pyamṛtaphalatvameva
+āditsordrumaviṭapāgravartipuṣpaṃ puṣpatve 'pyamṛtaphalatvameva
 bhīroḥ||53||
 
 śliṣyantyā
@@ -12529,7 +12531,7 @@ kācidvyadhatta hṛdaye hṛdayeśvarasya||15||
 
 ślāghyātmanā daśanakoṭikṛtakṣaten
 
-sa.prāpya cumbanasukhānubhavaṃ tadānīm|
+saṃprāpya cumbanasukhānubhavaṃ tadānīm|
 
 rāgaḥ kuśeśayadṛśāmadhareṣu nāga-
 
@@ -12913,7 +12915,7 @@ bhāgā vivartavalanaṃ vapuṣaścakāra||61|| (yugalakam)
 
 tāsāmapāṅgapadavīvyatiriktanīla-
 
-tāratvi.o lalitavīkṣitvibhrameṣu|
+tāratviṣo lalitavīkṣitvibhrameṣu|
 
 āvṛttipītabharanirgatakajjalaugha-
 
